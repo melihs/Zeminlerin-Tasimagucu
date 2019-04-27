@@ -6,6 +6,4 @@ An example of the calculation program of transportation power which is frequentl
 
 
 
-
-
-![](http://www.imgim.com/9138incir366767.png)
+![alt text](https://i.ibb.co/7Q5nMC9/Screenshot-3.jpg)
